@@ -1,0 +1,71 @@
+body {
+    padding-top: 70px;
+}
+
+div#about, div#my-work, div#my-travel-map{
+  padding-top: 70px;
+}
+
+div#contact-me{
+  padding-top: 70px;
+  padding-bottom: 180px;
+}
+
+.my-nav {
+  background: #FF6600
+}
+
+.my-nav ul {
+  margin: 10px 0;
+}
+
+.my-nav .navbar-brand {
+  color: #ffffff;
+  font-size: 150%;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.my-nav .navbar-brand:hover {
+    color: #ffffff;
+}
+
+.my-nav .navbar-toggle {
+  border-color: #ffffff;
+}
+
+.my-nav .navbar-toggle .icon-bar {
+    background-color: #ffffff;
+}
+
+.my-nav .navbar-toggle:hover{
+    background-color: #ffaa00;
+}
+
+.my-nav .navbar-toggle:focus{
+    background-color: #FF6600;
+}
+
+.my-nav .navbar-nav>li>a {
+  background-color: #FF6600;
+  border-color: #ffffff;
+  color: #ffffff;
+}
+
+.my-nav .navbar-nav>li>a:hover, .my-nav .navbar-nav > li > a:focus{
+  color: #ffffff;
+  background-color: #ffaa00;
+}
+
+div#google-travel-map {
+  border-color: #FF6600;
+  border-style: solid;
+  width: 100%; 
+  height: 400px;
+  margin-top: 20px;
+}
+
+
+
+
+
